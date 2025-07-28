@@ -1,5 +1,5 @@
 <h1 align="center">✨ ¡Hola! Soy Franco Mendoza ✨</h1>
-<h3 align="center">🎯 Analista Funcional Jr. | QA Manual Jr. | Desarrollador Backend Jr.</h3>
+<h3 align="center">🎯 Analista Funcional  | QA Manual | Desarrollador Backend </h3>
 
 <p align="center">
   <em>Técnico Universitario en Informática (UNGS, 2025) · Estudiante avanzado de Lic. en Sistemas · Apasionado por el análisis, la mejora continua y la calidad del software</em>
@@ -38,7 +38,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="Jira" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
