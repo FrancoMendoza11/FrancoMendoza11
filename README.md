@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Franco Mendoza</h1>
-<h3 align="center">Analista Funcional Jr. | QA Manual Jr. | Estudiante avanzado de Sistemas (UNGS)</h3>
+<h3 align="center">Analista Funcional | QA | Desarrollador Backend</h3>
 
 🎓 Técnico Universitario en Informática (UNGS, 2025)  
 📘 Estudiante de Lic. en Sistemas – 22/36 materias aprobadas  
