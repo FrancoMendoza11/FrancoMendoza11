@@ -13,7 +13,7 @@
 - 📘 Licenciatura en Sistemas – 22/36 materias aprobadas  
 - 🛠️ Formación sólida en análisis funcional, QA manual, especificación de requerimientos y diseño de pruebas  
 - 🤝 Enfoque colaborativo, organizado y con visión sistémica  
-- 🚀 Buscando mi primera experiencia profesional en roles de **Analista Funcional** o **QA Manual**
+  
 
 ---
 
