@@ -1,5 +1,4 @@
 <h1 align="center">✨ ¡Hola! Soy Franco Mendoza ✨</h1>
-<h3 align="center">🎯 Analista Funcional  | QA Manual | Desarrollador Backend </h3>
 
 <p align="center">
   <em>Técnico Universitario en Informática (UNGS, 2025) · Estudiante avanzado de Lic. en Sistemas · Apasionado por el análisis, la mejora continua y la calidad del software</em>
